@@ -1,0 +1,45 @@
+#div-header
+{
+   background-color:aqua;
+   text-align:center;
+   height:20%; 
+}
+
+#div-logo 
+{
+    background-color:yellow;
+    height:100%;
+    width:20%;
+    float:left;
+}
+
+#div-title
+{
+  font-size:30;
+    font-style:italic;
+    float:center;
+    text-align:center; 
+}
+
+#div-nav
+{
+    height:5%;
+    width:100%;
+    font-style:italic;
+    font-size:30px;
+    text-align:center;
+}
+
+#div-body
+{
+    width: 100%;
+    background-color:greenyellow;
+    height: 100%; 
+} 
+
+#div-footer
+{
+    text-align: center;
+    height:5%;
+    background-color:limegreen;
+}
