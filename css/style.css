@@ -8,10 +8,13 @@
 
 #div-logo 
 {
-    background-color:yellow;
+    background-color: #3ea74f;
     height:100%;
     width:20%;
     float:left;
+	color: #3cbe97;
+	text-transform: capitalize;
+	text-align: left;
 }
 
 #div-title
@@ -22,6 +25,7 @@
 	line-height: 150px;
 	font-variant: normal;
 	text-align: center;
+	box-shadow: 0 0 1px #ffffff;
 }
 
 #div-nav
@@ -41,10 +45,10 @@
     width: 100%;
     background-color:greenyellow;
     height: 100%;
-	font: small-caps;
-	font-size :10 "Lucida Grande", Lucida, Verdana, sans-serif;
-	color: #22cfb0;
+	font-variant: small-caps;
+	color: #75d9c7;
 	text-align: center;
+	font-style: italic;
 	text-transform: capitalize;
 } 
 
@@ -52,11 +56,12 @@
 {
 	height:5%;
     background-color:limegreen;
-	text-align: center;
 	text-transform: uppercase;
-	font-style: italic;
 	font-size: 15px;
 	float: none;
-	clear: both;
 	font-variant: small-caps;
+	color: blue;
+	font-style: italic;
+	text-shadow: 0 0 1px #6a4ee2;
+	text-align: center;
 }
